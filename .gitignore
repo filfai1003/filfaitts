@@ -1,0 +1,13 @@
+.idea/*
+
+android/*
+ios/*
+linux/*
+macos/*
+windows/*
+web/*
+
+build/*
+.gradle/*
+
+assets/transcriber.exe
